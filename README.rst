@@ -2,7 +2,7 @@
 Django Debug Toolbar
 ====================
 
-.. image:: https://secure.travis-ci.org/django-debug-toolbar/django-debug-toolbar.png
+.. image:: https://secure.travis-ci.org/django-debug-toolbar/django-debug-toolbar.png?branch=master
     :alt: Build Status
     :target: http://travis-ci.org/django-debug-toolbar/django-debug-toolbar
 
